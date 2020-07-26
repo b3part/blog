@@ -1,4 +1,4 @@
-baseURL = "https://rajatasthana.com"
+baseURL = "https://priceless-liskov-929baf.netlify.app"
 languageCode = "en-us"
 title = "Thought For Food"
 theme = "hugo-theme-tufte-css"
