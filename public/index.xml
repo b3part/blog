@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ups and Downs</title>
+    <title>Thought For Food</title>
     <link>https://rajatasthana.com/</link>
-    <description>Recent content on Ups and Downs</description>
+    <description>Recent content on Thought For Food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
@@ -12,7 +12,16 @@
     
     
     <item>
-      <title>Ups and Downs</title>
+      <title>About Me</title>
+      <link>https://rajatasthana.com/about/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajatasthana.com/about/</guid>
+      <description>I have to complete it! Will do later. Keep waiting!</description>
+    </item>
+    
+    <item>
+      <title>First</title>
       <link>https://rajatasthana.com/articles/first/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       

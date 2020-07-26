@@ -1,6 +1,6 @@
 baseURL = "https://rajatasthana.com"
 languageCode = "en-us"
-title = "Ups and Downs"
+title = "Thought For Food"
 theme = "hugo-theme-tufte-css"
 
 [permalinks]
