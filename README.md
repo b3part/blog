@@ -5,7 +5,7 @@ Steps for creating a new blog:
 > Go to content/articles folder
 > Now click on Add file dropdown and select "create new file"
 > Write the name of your file. it should have the extension ".md"
-> Start your blog with these three lines:
+> Start your blog with these lines:
   ---
   title: "title_of_your_blog"
   date: "2020-07-26"
