@@ -1,6 +1,7 @@
 title: "A Random Afternoon in Class"
 date: "2020-07-27"
 type: "article"
+
 Through the closed window
 I see the moving leaves
 The dancing branches
